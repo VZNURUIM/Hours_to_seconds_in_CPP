@@ -15,4 +15,6 @@ int main() {
 	cin >> hours;
 
 	cout << hours_in_seconds(hours) << " Seconds.";
+
+	return 0;
 }
